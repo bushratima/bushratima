@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bushratima. 
 - 👀 I’m interested in learning new things. 
 - 🌱 I’m currently learning softaware quality assurance. 
-- 💞️ I’m looking to collaborate on devoloping my QA skills. 
+- 💞️ I’m looking to collaborate on devoloping my QA skills.
 - 📫 How to reach me? I can be reached at bushrajahantima@gmail.com
 
 <!---
